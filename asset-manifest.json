@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/flyer-mutproject/static/css/main.340efd3d.css",
+    "main.css": "/flyer-mutproject/static/css/main.334c66d2.css",
     "main.js": "/flyer-mutproject/static/js/main.c6620cba.js",
     "static/js/453.c396d2de.chunk.js": "/flyer-mutproject/static/js/453.c396d2de.chunk.js",
     "static/media/3.jpg": "/flyer-mutproject/static/media/3.9324df90b8ec94d91d5f.jpg",
@@ -10,12 +10,12 @@
     "static/media/1.jpg": "/flyer-mutproject/static/media/1.fec22c7b7b4ead50fde5.jpg",
     "static/media/6.jpg": "/flyer-mutproject/static/media/6.b25583f5cc499b5a6348.jpg",
     "index.html": "/flyer-mutproject/index.html",
-    "main.340efd3d.css.map": "/flyer-mutproject/static/css/main.340efd3d.css.map",
+    "main.334c66d2.css.map": "/flyer-mutproject/static/css/main.334c66d2.css.map",
     "main.c6620cba.js.map": "/flyer-mutproject/static/js/main.c6620cba.js.map",
     "453.c396d2de.chunk.js.map": "/flyer-mutproject/static/js/453.c396d2de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.340efd3d.css",
+    "static/css/main.334c66d2.css",
     "static/js/main.c6620cba.js"
   ]
 }
