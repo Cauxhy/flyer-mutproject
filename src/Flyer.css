@@ -1,0 +1,68 @@
+/* Reset CSS pour les marges et les paddings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Assure que le padding et la bordure n'affectent pas la taille totale */
+  background-color: #072e62; /* Couleur de fond générale */
+}
+
+.rotate-message {
+  font-size: 18px;
+  color: #333;
+  text-align: center;
+  margin: 20px;
+}
+
+/* Style du flipbook */
+.flipbook {
+  top: 65px;
+  margin: 0 auto; /* Centrer le flipbook */
+  padding: 0; /* Aucune marge interne */
+  display: flex;
+  justify-content: center; /* Centrer le contenu */
+  align-items: center; /* Centrer le contenu verticalement */
+  overflow: hidden; /* Masquer tout débordement */
+}
+
+/* Style de chaque page */
+.page {
+  background-color: #072e62; /* Couleur de fond de la page */
+  display: flex; /* Utiliser le modèle de boîte flexible */
+  align-items: center; /* Centrer le contenu verticalement */
+  justify-content: center; /* Centrer le contenu horizontalement */
+  padding: 0; /* Pas de padding */
+  margin: 0; /* Pas de marge */
+  border: none; /* Pas de bordure */
+  border-radius: 10px; /* Coins arrondis pour ressembler à un cahier */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Ombre légère */
+}
+
+/* Style de la couverture */
+.cover-page {
+  background-color: #072e62; /* Couleur de fond de la couverture */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto; /* Prendre toute la hauteur */
+  font-size: 24px;
+  font-weight: bold;
+  border-radius: 10px; /* Coins arrondis */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Ombre légère */
+}
+
+/* Style de l'image dans le flyer */
+.flyer-image {
+  width: 70%; /* Ajuster l'image à 70% de la taille de la page */
+  height: auto;
+  object-fit: cover; /* Couvrir tout l'espace disponible */
+  margin: 0 auto; /* Centrer l'image horizontalement */
+}
+
+/* Conteneur principal du flyer */
+.flyer-container {
+  width: 100%; /* Prendre toute la largeur de l'écran */
+  height: 100vh; /* Prendre toute la hauteur de l'écran */
+  display: flex;
+  justify-content: center;
+  overflow: hidden; /* Masquer tout débordement */
+}
