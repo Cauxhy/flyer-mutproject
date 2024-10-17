@@ -15,7 +15,7 @@
 
 /* Style du flipbook */
 .flipbook {
-  top: 65px;
+  top: 0px;
   margin: 0 auto; /* Centrer le flipbook */
   padding: 0; /* Aucune marge interne */
   display: flex;

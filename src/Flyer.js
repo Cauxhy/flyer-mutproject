@@ -27,7 +27,7 @@ const Flyer = () => {
   ];
 
   return (
-    <div className="flyer-container">
+    <div >
       {!isLandscape && (
         <div className="rotate-message">
           Veuillez orienter votre appareil en mode paysage pour une meilleure expérience.
