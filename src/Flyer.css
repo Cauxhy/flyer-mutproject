@@ -8,7 +8,7 @@
 
 .rotate-message {
   font-size: 18px;
-  color: #333;
+  color: #fff;
   text-align: center;
   margin: 20px;
 }
@@ -52,7 +52,7 @@
 
 /* Style de l'image dans le flyer */
 .flyer-image {
-  width: 50%; /* Ajuster l'image à 70% de la taille de la page */
+  width: 70%; /* Ajuster l'image à 70% de la taille de la page */
   height: auto;
   object-fit: cover; /* Couvrir tout l'espace disponible */
   margin: 0 auto; /* Centrer l'image horizontalement */
