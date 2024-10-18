@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/flyer-mutproject/static/css/main.1c1cd1ea.css",
-    "main.js": "/flyer-mutproject/static/js/main.3a86b105.js",
+    "main.js": "/flyer-mutproject/static/js/main.b7185b63.js",
     "static/js/453.c396d2de.chunk.js": "/flyer-mutproject/static/js/453.c396d2de.chunk.js",
-    "static/media/3.jpg": "/flyer-mutproject/static/media/3.9324df90b8ec94d91d5f.jpg",
-    "static/media/4.jpg": "/flyer-mutproject/static/media/4.9725aeec35a2446214ae.jpg",
-    "static/media/5.jpg": "/flyer-mutproject/static/media/5.d02cf27a470ed83e35cd.jpg",
-    "static/media/2.jpg": "/flyer-mutproject/static/media/2.00d2f3d0e6cadc8c27e7.jpg",
-    "static/media/1.jpg": "/flyer-mutproject/static/media/1.fec22c7b7b4ead50fde5.jpg",
-    "static/media/6.jpg": "/flyer-mutproject/static/media/6.b25583f5cc499b5a6348.jpg",
+    "static/media/3.jpg": "/flyer-mutproject/static/media/3.bc0571efade6c9e8af4a.jpg",
+    "static/media/4.jpg": "/flyer-mutproject/static/media/4.38dfddbed30011ef2ca0.jpg",
+    "static/media/5.jpg": "/flyer-mutproject/static/media/5.2aa7bdd8b2d8c180a3e8.jpg",
+    "static/media/2.jpg": "/flyer-mutproject/static/media/2.55cb9ce3b6ed02f9a1a1.jpg",
+    "static/media/1.jpg": "/flyer-mutproject/static/media/1.d102f5926e9a551db86a.jpg",
+    "static/media/6.jpg": "/flyer-mutproject/static/media/6.9fb086f23002de1ba9a9.jpg",
     "index.html": "/flyer-mutproject/index.html",
     "main.1c1cd1ea.css.map": "/flyer-mutproject/static/css/main.1c1cd1ea.css.map",
-    "main.3a86b105.js.map": "/flyer-mutproject/static/js/main.3a86b105.js.map",
+    "main.b7185b63.js.map": "/flyer-mutproject/static/js/main.b7185b63.js.map",
     "453.c396d2de.chunk.js.map": "/flyer-mutproject/static/js/453.c396d2de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c1cd1ea.css",
-    "static/js/main.3a86b105.js"
+    "static/js/main.b7185b63.js"
   ]
 }
